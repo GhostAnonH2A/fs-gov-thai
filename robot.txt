@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.education.fs.gov.za/-/slot-thailand/sitemap.xml
